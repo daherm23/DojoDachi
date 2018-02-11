@@ -1,0 +1,32 @@
+body { 
+    background-color: salmon;
+}
+
+h3{
+    display: inline-block;
+    margin: 10px;
+    color:white; 
+}
+.buttons{
+    display: inline-block;
+    margin: 3px;
+    color: green;
+}
+#box{
+    height: 300px;
+    width: 300px;
+    border: solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+img { 
+    margin-left: 585px;
+}
+
+button { 
+
+    background-color: green;
+    color:white;
+    border-radius: 8px;
+}
